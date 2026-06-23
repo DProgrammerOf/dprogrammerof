@@ -34,7 +34,7 @@ Sou um Desenvolvedor Full Stack apaixonado por criar soluções eficientes e esc
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white)
 
 ### Contato
-- **Site pessoal:** [renanlv.com](https://renanlv.com)
+- **Site pessoal:** [renanlv.com](https://renanlv.com.br)
 - **LinkedIn:** [Renan Vollenghaupt](https://www.linkedin.com/in/renan-vollenghaupt-118b051b5/)
 - **Emails:**
   - [renanvollenghapt@icloud.com](mailto:renanvollenghapt@icloud.com)
